@@ -1,0 +1,12 @@
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\bin\Debug\net7.0\Catalog.Data.deps.json
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\bin\Debug\net7.0\Catalog.Data.dll
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\bin\Debug\net7.0\Catalog.Data.pdb
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\obj\Debug\net7.0\Catalog.Data.csproj.AssemblyReference.cache
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\obj\Debug\net7.0\Catalog.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\obj\Debug\net7.0\Catalog.Data.AssemblyInfoInputs.cache
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\obj\Debug\net7.0\Catalog.Data.AssemblyInfo.cs
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\obj\Debug\net7.0\Catalog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\obj\Debug\net7.0\Catalog.Data.dll
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\obj\Debug\net7.0\refint\Catalog.Data.dll
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\obj\Debug\net7.0\Catalog.Data.pdb
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Data\obj\Debug\net7.0\ref\Catalog.Data.dll

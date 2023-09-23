@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ydXeWvvZ7sJnTRB1A8Ozd71Yy1XkIMjDXSbkHT32k4LOaGBuT3riTeOihiyyWRF9BcGAaWoBBuqQ3+QbQk0fwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Muhammad.Hussain\\Desktop\\Learning\\DotNetMastery\\.NET Microservices\\Microservice course\\Project\\src\\Catalog.Data\\Catalog.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Muhammad.Hussain\\.nuget\\packages\\mongodb.bson\\2.21.0\\mongodb.bson.2.21.0.nupkg.sha512",
+    "C:\\Users\\Muhammad.Hussain\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Muhammad.Hussain\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

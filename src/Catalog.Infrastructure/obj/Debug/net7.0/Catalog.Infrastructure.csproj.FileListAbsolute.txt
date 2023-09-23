@@ -1,0 +1,15 @@
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\bin\Debug\net7.0\Catalog.Infrastructure.deps.json
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\bin\Debug\net7.0\Catalog.Infrastructure.dll
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\bin\Debug\net7.0\Catalog.Infrastructure.pdb
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\bin\Debug\net7.0\Catalog.Data.dll
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\bin\Debug\net7.0\Catalog.Data.pdb
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\Catalog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\Catalog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\Catalog.Infrastructure.AssemblyInfo.cs
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\Catalog.Infrastructure.csproj.CopyComplete
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\Catalog.Infrastructure.dll
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\refint\Catalog.Infrastructure.dll
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\Catalog.Infrastructure.pdb
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\Catalog.Infrastructure\obj\Debug\net7.0\ref\Catalog.Infrastructure.dll
