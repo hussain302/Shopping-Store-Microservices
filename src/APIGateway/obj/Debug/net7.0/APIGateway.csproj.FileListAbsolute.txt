@@ -34,3 +34,4 @@ C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Micr
 C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\APIGateway\bin\Debug\net7.0\Ocelot.dll
 C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\APIGateway\obj\Debug\net7.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\APIGateway\obj\Debug\net7.0\APIGateway.csproj.CopyComplete
+C:\Users\Muhammad.Hussain\Desktop\Learning\DotNetMastery\.NET Microservices\Microservice course\Project\src\APIGateway\bin\Debug\net7.0\ocelot.json
