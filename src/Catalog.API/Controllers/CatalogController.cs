@@ -7,7 +7,7 @@ using System.Net;
 
 namespace Catalog.API.Controllers
 {
-    [Route("[controller]")]
+    [Route("api/v1/[controller]")]
     [ApiController]
     public class CatalogController : ControllerBase
     {
@@ -19,7 +19,7 @@ namespace Catalog.API.Controllers
             this.logger = logger ?? throw new ArgumentNullException(nameof(logger));
         }
 
-        [HttpGet("GetProducts")]
+        [HttpGet]
         [ProducesResponseType(typeof(IEnumerable<ProductDTO>), (int)HttpStatusCode.OK)]
         public async Task<ActionResult<IEnumerable<ProductDTO>>> GetProducts()
         {
