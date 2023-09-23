@@ -3,6 +3,7 @@ version: '3.4'
 services:
   CatalogDb:
     image: mongo
+
   BasketDb:
     image: redis:alpine
 
