@@ -1,6 +1,5 @@
 ﻿using Catalog.Data.Entities;
 using MongoDB.Driver;
-using System;
 
 namespace Catalog.Infrastructure.DbContext
 {
