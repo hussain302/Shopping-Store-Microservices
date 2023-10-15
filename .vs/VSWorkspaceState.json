@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Catalog.Infrastructure",
+    "\\src\\Catalog.Infrastructure\\DbContext"
   ],
-  "SelectedNode": "\\ShoppingStore.sln",
+  "SelectedNode": "\\src\\Catalog.Infrastructure\\DbContext\\CatalogSeedData.cs",
   "PreviewInSolutionExplorer": false
 }

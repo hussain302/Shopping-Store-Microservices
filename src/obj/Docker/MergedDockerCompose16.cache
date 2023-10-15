@@ -1,0 +1,75 @@
+name: dockercompose11801360500213240908
+services:
+  BasketDb:
+    container_name: BasketDb
+    image: redis:alpine
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 6379
+        published: "6379"
+        protocol: tcp
+    restart: always
+  CatalogDb:
+    container_name: CatalogDb
+    image: mongo
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 27017
+        published: "27017"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: mongo_data
+        target: /data/db
+        volume: {}
+  basket.api:
+    build:
+      context: C:\Users\RBTG V2\Source\Repos\hussain302\Shopping-Store-Microservices\src
+      dockerfile: Basket.API/Dockerfile
+    container_name: basket.api
+    depends_on:
+      BasketDb:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      CacheSettings:ConnectionString: BasketDb:6379
+    image: basketapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8001"
+        protocol: tcp
+  catalog.api:
+    build:
+      context: C:\Users\RBTG V2\Source\Repos\hussain302\Shopping-Store-Microservices\src
+      dockerfile: Catalog.API/Dockerfile
+    container_name: catalog.api
+    depends_on:
+      CatalogDb:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      DatabaseSettings:ConnectionString: mongodb://CatalogDb:27017/
+    image: catalogapi
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8000"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose11801360500213240908_default
+volumes:
+  mongo_data:
+    name: dockercompose11801360500213240908_mongo_data
